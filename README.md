@@ -20,6 +20,5 @@ Light variation
 ***
 
 ### Links
-- The original Spacegray theme: http://kkga.github.io/spacegray/
-
+- The original Spacegray theme: http://kkga.github.io/spacegray
 - Ublime color schemes: https://github.com/imagentleman/ublime
