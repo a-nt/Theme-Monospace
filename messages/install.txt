@@ -1,0 +1,29 @@
+Thanks for installing!
+
+
+How to activate
+===============
+
+Activate the UI theme and color scheme by modifying your user preferences file, which you can find using the menu item `Sublime Text -> Preferences -> Settings - User` (⌘+, on Mac).
+
+
+Dark
+---------
+
+*Example settings*
+
+    {
+      "theme": "Monospace Dark.sublime-theme”,
+      "color_scheme": "Packages/Theme - Monospace/Monospace Dark.tmTheme"
+    }
+
+
+Light
+---------------
+
+*Example settings*
+
+    {
+      "theme": "Monospace Light.sublime-theme”,
+      "color_scheme": "Packages/Theme - Monospace/Monospace Light.tmTheme"
+    }
